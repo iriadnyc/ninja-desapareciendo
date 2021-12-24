@@ -1,0 +1,21 @@
+#ninja-box {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+#ninja-box img {
+    margin: 10px;
+    border: #333333 1px solid;
+    max-width: 150px; 
+}
+
+.restore {
+    background-color: green;
+    color: white;
+    padding: 10px;
+    font-size: 2rem;
+    border: none;
+    margin: 10px;
+} 
